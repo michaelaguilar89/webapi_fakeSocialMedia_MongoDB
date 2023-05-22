@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YW1qy+L6rJpWxtYEhiTMA4vgsCAdHPwEZFQG7dWUTDw=",
+  "Source": "WebApiMongoSaveImage",
+  "BasePath": "_content/WebApiMongoSaveImage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

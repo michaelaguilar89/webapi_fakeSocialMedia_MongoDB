@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApiMongoSaveImage.props" />
+</Project>
