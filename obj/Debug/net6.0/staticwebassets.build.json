@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "YW1qy+L6rJpWxtYEhiTMA4vgsCAdHPwEZFQG7dWUTDw=",
-  "Source": "WebApiMongoSaveImage",
-  "BasePath": "_content/WebApiMongoSaveImage",
+  "Hash": "sSsokLZoADvgc+eGdenGpiHfp7QTpKwaEl/WhDAVKn4=",
+  "Source": "WebApiFakeSocialMedia-Mongo",
+  "BasePath": "_content/WebApiFakeSocialMedia-Mongo",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

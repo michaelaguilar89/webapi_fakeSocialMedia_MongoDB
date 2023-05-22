@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sSsokLZoADvgc+eGdenGpiHfp7QTpKwaEl/WhDAVKn4=",
+  "Source": "WebApiFakeSocialMedia-Mongo",
+  "BasePath": "_content/WebApiFakeSocialMedia-Mongo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
