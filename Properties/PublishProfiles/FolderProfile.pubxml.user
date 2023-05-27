@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\mchla\OneDrive\Documentos\Proyectos\WebApiMongoSaveImage\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2023-05-22T17:30:52.7012344Z;</History>
+    <History>True|2023-05-27T16:51:20.6669840Z;True|2023-05-22T11:30:52.7012344-06:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

@@ -2,7 +2,18 @@ using WebApiMongoSaveImage.Models;
 using WebApiMongoSaveImage.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
+builder.Services.AddCors(options =>
+{
+	options.AddPolicy(MyAllowSpecificOrigins,
+						  policy =>
+						  {
+							  policy.WithOrigins("*")
+												  .AllowAnyHeader()
+												  .AllowAnyMethod();
+						  });
+});
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -15,6 +26,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+app.UseCors(MyAllowSpecificOrigins);
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
